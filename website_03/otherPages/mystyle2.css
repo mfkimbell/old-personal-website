@@ -1,0 +1,248 @@
+body {
+    background-color: #3d516d;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    font-weight: bolder;
+}
+
+icon {
+    height: 1px !important;
+    max-width: 1px !important;
+}
+
+body {
+    margin:0em;
+    padding:0em;
+    background-color: #1f2937;
+
+    
+}
+
+.container1 {
+    
+    display: flex;
+    padding: 0em;
+    margin: 0em;
+    height: 4em;
+    background-color: #1f2937
+   
+
+}
+
+
+.navigation-bar {
+    
+    display: flex;
+    flex: 1 1 auto;
+    padding: 0em;
+    margin: 0em;
+    align-items:stretch;
+}
+
+
+.icon1 {
+    margin-left: 1em;
+    display: flex;
+    flex: 0 1 auto;  
+    
+    background-color: transparent;
+}
+.icon2 {
+    display: flex;
+    flex: 1 1 auto;  
+    color:white;
+    font-family: 'Roboto', arial;
+    font-size: 30px;
+    
+    align-items: center;
+    justify-content: left;
+    margin-left: 0.6em;
+    
+}
+
+.icon3 {
+    display: flex;
+    flex: 0 1 auto;  
+    width: 13em;
+    color:white;
+    font-family: 'Roboto', arial;
+    font-size: 15px;
+    
+    align-items: center;
+    justify-content: space-between;
+    gap: 1em;
+}
+
+.icon3_1 {
+    display: flex;
+    flex: 0 1 auto;  
+    width: 4em;
+    color:white;
+    font-family: 'Roboto', arial;
+    font-size: 15px;
+    
+    align-items: center;
+    justify-content: center;
+    
+}
+.icon3_2 {
+    display: flex;
+    flex: 0 1 auto;  
+    width: 4em;
+    color:white;
+    font-family: 'Roboto', arial;
+    font-size: 15px;
+    
+    align-items: center;
+    justify-content: center;
+    
+}
+.icon3_3 {
+    display: flex;
+    flex: 0 1 auto;  
+    width: 4em;
+    color:white;
+    font-family: 'Roboto', arial;
+    font-size: 15px;
+    
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.icon3_4 {
+    display: flex;
+    flex: 0 1 auto;  
+    width: 4em;
+    color:white;
+    font-family: 'Roboto', arial;
+    font-size: 15px;
+    
+    align-items: center;
+    justify-content: center;
+    margin-right: 1em;
+    
+}
+
+.links1 {
+    display: flex;
+    flex: 1 1 auto;
+}
+
+.container2 {
+    display: flex;
+    
+    background-color: #1f2937;
+    height: 17em;
+    justify-content:space-between;
+    gap: 5px;
+    margin: 2em;
+    margin-left: 3em;
+    margin-right: 3em;
+}
+
+.item2_1 {
+    display: flex;
+    flex: 1 1 auto;
+    color: white;
+    font-family: 'Roboto', arial;
+    font-size: 30px;
+    max-width: 20em;
+    min-width: 12em;
+}
+.item2_2 {
+    display: flex;
+    flex: 1 1 auto;
+    background-color: #1f2937;
+    font-family: 'Roboto', arial;
+    border-radius: 15px;
+    max-width: 28em;
+    min-width: 28em;
+    overflow: hidden;
+}
+.container2_5 {
+    display: flex;
+    background-color: #3d516d;
+    height: 2em;
+    color:white;
+    font-family: 'Roboto', arial;
+    font-size: 25px;
+    align-items: center;
+    justify-content: center;
+}
+.container3 {
+    display: flex;
+    flex-direction: column;
+    background-color: #3d516d;
+    height: 30em;
+    justify-content: space-evenly;
+}
+.item3_1container{
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    border: solid 2px transparent;
+    border-radius: 0.5em;
+    background-color: #3d516d;
+    height: 7.5em;
+    max-width: 6em;
+    margin: 3em;
+    
+}
+.item3_1 {
+    display: flex;
+    flex: 0 1 auto;
+    border: solid 2px transparent;
+    border-radius: 0.5em;
+    background-color: #3d516d;
+    max-height: 80%;
+    max-width: 6em;
+    margin-bottom: 0.3em;
+    
+}
+
+.item3_2container{
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    border: solid 2px transparent;
+    border-radius: 0.5em;
+    background-color: #3d516d;
+    height: 7.5em;
+    max-width: 6em;
+    margin: 3em;
+}
+.item3_2 {
+    display: flex;
+    flex: 0 1 auto;
+    border: solid 2px transparent;
+    border-radius: 0.5em;
+    background-color: #3d516d;
+    max-height: 80%;
+    max-width: 6em;
+    margin-bottom: 0.3em;
+    
+}
+
+
+
+.underneath {
+    display:flex;
+    justify-items: end;
+    justify-content: center;
+    margin: 0px;
+    color:white;
+    font-family: 'Roboto', arial;
+    font-size: 15px;
+
+}
