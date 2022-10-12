@@ -4,5 +4,7 @@ Notable information:
 -The links on the top right lead to my resume and contact information and github
 
 Screenshot example:
-<img width="1280" alt="Screen Shot 2022-10-11 at 7 55 33 PM" src="https://user-images.githubusercontent.com/107063397/195224630-e0448365-a4d8-4c01-b314-ed1c8e0afddb.png">
+<img width="1280" alt="Screen Shot 2022-10-11 at 10 02 54 PM" src="https://user-images.githubusercontent.com/107063397/195240396-cae5d7cd-6eee-448b-832b-f808a8977c35.png">
+
+
 
