@@ -102,6 +102,7 @@ body {
     color:white;
     font-family: 'Roboto', arial;
     font-size: 15px;
+    margin-right: -.4em;
     
     align-items: center;
     justify-content: center;
@@ -174,7 +175,7 @@ body {
     display: flex;
     flex-direction: row;
     background-color: #3d516d;
-    max-height: 40em;
+    height: 1300px;
 }
 
 .container3 {
